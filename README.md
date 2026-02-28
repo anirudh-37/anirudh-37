@@ -1,5 +1,4 @@
-🚀 Anirudh G
-Data Engineer @ JLL/T | AI & Data Enthusiast
+🚀 Data Engineer @ JLL/T | AI & Data Enthusiast
 <p align="center"> <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/> </p>
 👨‍💻 About Me
 
@@ -9,9 +8,8 @@ Data Engineer @ JLL/T | AI & Data Enthusiast
 
 ☁️ Working with Azure Cloud & Modern Data Platforms
 
-🚀 Always exploring scalable architectures & intelligent systems
+🚀 Exploring scalable architectures & intelligent systems
 
-🎯 Goal: Build impactful data-driven systems
 
 🧠 Tech Stack
 💻 Programming & Query Languages
@@ -35,4 +33,4 @@ Data Engineer @ JLL/T | AI & Data Enthusiast
 ☁️ Architecting cloud-native data solutions
 
 🌐 Let’s Connect
-<p> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/> </a> </p>
+<p> <a href="www.linkedin.com/in/anirudhg37/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:g.anirudh1149@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/> </a> </p>
