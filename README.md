@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anirudh G</h1>
-<h3 align="center">🚀 Data Engineer @ JLL/T | AI & Data Enthusiast</h3>
+<h1 align="center">Hi, I'm Anirudh G</h1>
+<h3 align="center"> Data Engineer @ JLL/T | AI & Data Enthusiast</h3>
 
 ## 👨‍💻 About Me
 
