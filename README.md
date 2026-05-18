@@ -1,12 +1,15 @@
 <h1 align="center">Hi, I'm Anirudh G</h1>
-<h3 align="center"> Data Engineer @ JLL/T | AI & Data Enthusiast</h3>
+<h3 align="center">Data Engineer @ JLL/T | AI & Data Enthusiast</h3>
 
 ## 👨‍💻 About Me
 
 - 🏢 Data Engineer at JLL/T  
 - 📊 Passionate about Data Engineering, Machine Learning & Generative AI  
-- ☁️ Working with Azure Cloud & Modern Data Platforms  
+- ☁️ Working with Azure & AWS Cloud Platforms  
 - 🚀 Exploring scalable architectures & intelligent systems  
+- 🔁 Building end-to-end data pipelines with Airflow & Spark  
+
+---
 
 ## 🧠 Tech Stack
 
@@ -23,15 +26,24 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Data Platforms
+---
+
+### ☁️ Cloud, Data Platforms & Orchestration
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Azure-Synapse%20%7C%20ADF%20%7C%20FunctionApp-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/AWS-S3%20%7C%20EC2%20%7C%20Lambda%20%7C%20Glue%20%7C%20Redshift-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Apache_Airflow-DAGs%20%7C%20Orchestration-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Databricks-EA3E2C?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
+---
 
 ### 🤖 AI / ML
 
@@ -41,12 +53,17 @@
   <img src="https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge"/>
 </p>
 
+---
+
 ## 🔥 What I’m Working On
 
-- ⚡ Building scalable data pipelines  
+- ⚡ Building scalable data pipelines using **Apache Airflow**
+- ☁️ Designing cloud-native architectures on **AWS & Azure**
 - 🧠 Experimenting with Deep Learning Models  
 - 🤖 Exploring Generative AI systems  
-- ☁️ Architecting cloud-native data solutions  
+- 📊 Optimizing batch & streaming data workflows  
+
+---
 
 ## 🌐 Let’s Connect
 
