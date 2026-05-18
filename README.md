@@ -7,7 +7,7 @@
 - 📊 Passionate about Data Engineering, Machine Learning & Generative AI  
 - ☁️ Working with Azure & AWS Cloud Platforms  
 - 🚀 Exploring scalable architectures & intelligent systems  
-- 🔁 Building end-to-end data pipelines with Airflow & Spark  
+- 🔁 Building end-to-end data pipelines with Apache Airflow & Spark  
 
 ---
 
@@ -33,9 +33,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Azure-Synapse%20%7C%20ADF%20%7C%20FunctionApp-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/AWS-S3%20%7C%20EC2%20%7C%20Lambda%20%7C%20Glue%20%7C%20Redshift-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Apache_Airflow-DAGs%20%7C%20Orchestration-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-Orchestration%20%7C%20DAGs-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Databricks-EA3E2C?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
